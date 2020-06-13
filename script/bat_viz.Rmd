@@ -1,0 +1,45 @@
+---
+title: "bat calls"
+output: html_notebook
+---
+
+Data collected by Dr. Joanna Burgar
+
+```{r setup}
+
+library(tidyverse)
+
+```
+
+
+```{r}
+
+bat_call_data <- read_csv("../Bat_Call_Data.csv")
+
+```
+
+
+```{r}
+# palettes visible for people who are colour blind
+
+# The palette with grey:
+cbPalette <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+
+# The palette with black:
+cbbPalette <- c("#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+
+```
+
+```{r}
+ggplot(bat_call_data, aes(x = Time_Btw_Calls, y = Duration, colour = Species)) +
+         geom_point(size = 2, position = "jitter") +
+  scale_fill_manual(values=cbbPalette)
+
+ggplot(bat_call_data, aes(x = Frequency, y = Slope , colour = Species)) +
+         geom_point(size = 2, position = "jitter") +
+  scale_fill_manual(values=cbbPalette)
+
+
+```
+
+
