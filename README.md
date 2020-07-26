@@ -39,4 +39,8 @@ Oisin MacAodha, Rory Gibb, Kate E. Barlow, et al., [Bat detective—Deep learnin
 Keisuke Masuda, Takanori Matsui, Dai Fukui, et al., [Bat species classification by echolocation call using a machine learning system](https://www.jstage.jst.go.jp/article/mammalianscience/57/1/57_19/_article), _Honyurui Kagaku (Mammalian Science)_, Volume 57 (2017) Issue 1. doi: 10.11238/mammalianscience.57.19
 
 Veronica Zamora-Gutierrez, Celia Lopez-Gonzalez, M. Cristina MacSwiney Gonzalez, et al., [Acoustic identification of Mexican bats based on taxonomic and ecological constraints on call design](https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.12556), _Methods in Ecology and Evolution_ 2016, 7, 1082–1091. doi: 10.1111/2041-210X.12556
-,
+
+
+## Other bat communication
+
+Jason Daley, [Researchers “Translate” Bat Talk. Turns Out, They Argue—A Lot](https://getpocket.com/explore/item/researchers-translate-bat-talk-turns-out-they-argue-a-lot), _Smithsonian Magazine_, 2016-12-22.
